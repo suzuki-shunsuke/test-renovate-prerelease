@@ -12,6 +12,7 @@
       customType: "regex",
       datasourceTemplate: "github-releases",
       depNameTemplate: "aquaproj/aqua",
+      versioningTemplate: "semver",
       fileMatch: [
         "version",
       ],
